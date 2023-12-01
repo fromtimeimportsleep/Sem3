@@ -51,3 +51,8 @@ Lab 4 (2 parts, each worth 20%): 40%
 
 3 lab exams, each worth 20%: 60% \
 Project: 40%
+
+## EC 101
+
+First Half: Quiz (15%) + Midsem (35%) \
+Second Half: Quiz (15%) + Endsem (35%)
