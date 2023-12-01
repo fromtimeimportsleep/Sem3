@@ -4,15 +4,16 @@
 
 # Timetable
 
-| Time              | Monday              | Tuesday                   | Wednesday           | Thursday                 | Friday                 |
-|-------------------|---------------------|---------------------------|---------------------|---------------------------|------------------------|
-| 8:30 AM - 9:25 AM | DSA                 |                           |                     | DSA                       |                        |
-| 9:30 AM - 10:25 AM| Discrete            | DSA                       |                     |                           | Minor                  |
-| 10:35 AM - 11:30 AM|                     | Discrete                  |                     | DSA                       | Minor                  |
-| 11:05 AM - 12:30 PM|                     |                           | DLDCA               |                           | DLDCA                  |
-| 2:00 PM - 3:25 PM | DAI                 | DLDCA Lab                 |                     | DAI                       |                        |
-| 3:30 PM - 4:55 PM | Economics           |                           |                     | Economics                 |                        |
-| 2:00 PM - 5:00 PM |                     | DLDCA Lab                 |                     |                           | DSA Lab                |
+| Time          | 8:30 - 9:25  | 9:30 - 10:25 | 10:35 - 11:30 | 11:35 - 12:30 | 9:30 - 10:55 | 11:05 - 12:30 | 2:00 - 5:00 | 2:00 - 3:25 | 3:30 - 4:55 |
+|---------------|--------------|--------------|---------------|---------------|--------------|---------------|-------------|-------------|-------------|
+| Monday        | DSA          | Discrete     |               |               |              |               |             | DAI         | Economics   |
+| Tuesday       |              | DSA          | Discrete      |               |              |               | DLDCA Lab   |             |             |
+| Wednesday     |              |              |               |               | Minor        | DLDCA         |             |             |             |
+| Thursday      |              |              | DSA           | Discrete      |              |               |             | DAI         | Economics   |
+| Friday        |              |              |               |               | Minor        | DLDCA         | DSA Lab     |             |             |
+
+
+
 
 # Course Policies
 
