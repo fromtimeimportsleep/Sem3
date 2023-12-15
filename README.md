@@ -4,7 +4,7 @@
 
 # Timetable
 
-![TIMETABLE]{timetable.jpg}
+![TIMETABLE](timetable.jpg)
 
 # Course Policies
 
